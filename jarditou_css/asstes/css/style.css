@@ -1,0 +1,72 @@
+/* responsive cf responsive.css */
+
+/* police*/
+h1
+{
+font-size: 2rem;
+
+}
+h2
+{
+font-size: 1.3rem;
+}
+p
+{
+font-size:  1rem;
+}
+/* lien vers les pages*/
+ul
+{
+background-color: black;
+padding: 15pt;
+/* display: flex; */
+/* justify-content: space-between;
+justify-content: flex-start; */
+}
+
+
+li{
+
+    display: inline;
+}
+
+
+a
+{
+color: white;
+}
+/*zone de titre*/
+.logo
+{
+width: auto;
+height: 40pt;
+}
+#slogan
+{
+text-align: center;
+font-size: 1.5rem;
+flex: 1;
+margin-bottom: 1%;
+display:inline-block;
+
+
+/*height: 20em; /* hauteur du parent */
+/*line-height: 20em; /* hauteur de ligne (identique) */
+white-space: nowrap; 
+
+
+
+}
+/*colonnes*/
+div
+{
+display: flex;
+}
+aside
+{
+background-color: silver;
+display: flex;
+}
+
+
+

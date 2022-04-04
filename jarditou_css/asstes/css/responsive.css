@@ -1,0 +1,36 @@
+@media screen and (max-width: 768px){
+
+aside
+{
+    display: none;
+}
+
+
+h1
+{
+color: red;
+font-size: 1.5rem;
+}
+
+
+h2
+{
+font-size: 1.rem;
+}
+p
+{
+font-size:0.75rem;
+}
+ul
+{
+    display: grid;
+}
+
+li{
+
+    display: block;
+}
+
+
+} 
+
